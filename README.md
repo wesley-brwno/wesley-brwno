@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1452894/screenshots/14268276/image.gif" style="display: block; margin: 0 auto;">
+  <img src="https://cdn.dribbble.com/users/1452894/screenshots/14268276/image.gif" style="display: block; margin: 0 auto; height: 270px; width:auto;">
 </p>
 
 <h1 align="center" style="color: pink;">
