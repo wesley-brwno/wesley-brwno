@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: pink;">
-  Olá eu sou o Wesley 👋
+  Olá! Eu sou o Wesley 👋
 </h1>
 
 
