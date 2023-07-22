@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1452894/screenshots/14268276/image.gif" style="display: block; margin: 0 auto;">
+</p>
+
+<h1 align="center" style="color: pink;">
+  Olá eu sou o Wesley 👋
+</h1>
+
+
 
 <!--
 **wesley-brwno/wesley-brwno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
