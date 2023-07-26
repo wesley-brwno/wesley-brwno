@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=996183&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Wesley+👋;Sou+um+desenvolvedor+Back+end;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
+##
 
 ### Main Languages:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
