@@ -4,11 +4,26 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
 
 
 ## <h1 align='center'>Ferramentas</h1>
-
-## <img src="./assets/hammer-and-wrench.png" alt="Smiling face" height="24px" /> Tech Stack
-
 <div align="center">
  <p>
+    <a>
+      <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=spring"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=idea"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=eclipse"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=postman"/>
+    </a>
     <a href='https://html.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
@@ -18,47 +33,8 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
     <a href='https://www.javascript.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
-    <a href='https://www.typescriptlang.org/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=ts"/>
-    </a>
-    <a href='https://reactjs.org/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-     <a href='https://react-redux.js.org/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=redux"/>
-    </a>
-    <a href='https://nodejs.org/en/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-    <a href='https://express.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=express"/>
-    </a>
-    <a href='https://nextjs.org/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=next"/>
-    </a>
-    <a href='https://tailwindcss.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-    <a href='https://mui.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=mui"/>
-    </a>
-    <a href='https://styled-components.com/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </a>
-    <a href='https://sass-lang.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
-    <a href='https://postgres.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=postgres"/>
-    </a>
     <a href='https://getbootstrap.com.br/docs/4.1/getting-started/introduction/' target="_blank">
      <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    </a>
-    <a href='https://netlify.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=netlify"/>
-    </a>
-    <a href='https://vercel.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=vercel"/>
     </a>
     <a href='https://vscode.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=vscode"/>
@@ -66,8 +42,14 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
     <a href='https://git-scm.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
-    <a href='https://github.com/Mirian97'target="_blank">
+    <a href='https://github.com/wesley-brwno'target="_blank">
      <img src="https://skillicons.dev/icons?i=github"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=linux"/>
+    </a>
+    <a>
+      <img src="https://skillicons.dev/icons?i=bash"/>
     </a>
  </p>
 </div>
