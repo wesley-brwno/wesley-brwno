@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005499&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=6000&pause=1000&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Bem+vindo;Welcome;Nihao)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;Nihao;&font=Fira%20Code&center=true&width=440&height=45&color=005499&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurando novas oportunidades para aprender e crescer como desenvolvedor. Se você tiver alguma dúvida ou comentário sobre meu trabalho, não hesite em entrar em contato comigo.
