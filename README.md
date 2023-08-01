@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005499&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4000&pause=1000&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Bem+vindo;Welcome;Nihao)](https://git.io/typing-svg)
+
 
 Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurando novas oportunidades para aprender e crescer como desenvolvedor. Se você tiver alguma dúvida ou comentário sobre meu trabalho, não hesite em entrar em contato comigo.
 
@@ -68,4 +71,4 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
   </a>
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005499&height=120&section=footer"/>
