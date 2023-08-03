@@ -2,8 +2,8 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;Nihao;&font=Fira%20Code&center=true&width=440&height=45&color=005499&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;&#x6b22&#x8fce;;&font=Fira%20Code&center=true&width=440&height=45&color=005499&vCenter=true&pause=1000&size=36" />
+
 </p>
 
 
@@ -61,7 +61,7 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
  </p>
 </div>
 
-## Contate me
+## <h1 align='center'>Conecte-se comigo 🫱 🫲</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-brwno/" target="_blank">
