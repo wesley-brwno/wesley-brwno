@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005499&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=996183&height=120&section=header"/>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;&#x6b22&#x8fce;;&font=Fira%20Code&center=true&width=440&height=45&color=005499&vCenter=true&pause=1000&size=36" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;&#x6b22&#x8fce;;&font=Fira%20Code&center=true&width=440&height=45&color=996183&vCenter=true&pause=1000&size=36" />
 
 </p>
 
@@ -75,4 +75,4 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
   </a>
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005499&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=996183&height=120&section=footer"/>
