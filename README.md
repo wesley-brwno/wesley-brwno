@@ -64,7 +64,7 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
 ## <h1 align='center'>Conecte-se comigo 🫱 🫲</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wesley-brwno/" target="_blank">
+  <a href="https://br.linkedin.com/in/wesley-brwno" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/610953099997347880" target="_blank">
