@@ -2,15 +2,12 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo;Welcome;&#x6b22&#x8fce;;&font=Fira%20Code&center=true&width=440&height=45&color=996183&vCenter=true&pause=1000&size=36" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindo!;Welcome!;&#x6b22&#x8fce;;&font=Fira%20Code&center=true&width=440&height=45&color=996183&vCenter=true&pause=1000&size=36" />
 
 </p>
 
 
-Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurando novas oportunidades para aprender e crescer como desenvolvedor. Se você tiver alguma dúvida ou comentário sobre meu trabalho, não hesite em entrar em contato comigo.
-
-
-## <h1 align='center'>Ferramentas</h1>
+## <h2 align='center'>Ferramentas principais 🛠️</h2>
 <div align="center">
  <p>
     <a>
@@ -31,37 +28,30 @@ Olá! Meu nome é Wesley e sou um desenvolvedor back-end. Estou sempre procurand
     <a>
       <img src="https://skillicons.dev/icons?i=postman"/>
     </a>
-    <a href='https://html.com/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://www.javascript.com/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://getbootstrap.com.br/docs/4.1/getting-started/introduction/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    </a>
-    <a href='https://vscode.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=vscode"/>
-    </a>
-    <a href='https://git-scm.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
-    <a href='https://github.com/wesley-brwno'target="_blank">
-     <img src="https://skillicons.dev/icons?i=github"/>
+ </p>
+</div>
+
+## <h2 align='center'>Tenho interesse em ✨</h2>
+<div align="center">
+  <p>
+    <a>
+      <img src="https://skillicons.dev/icons?i=angular"/>
     </a>
     <a>
-      <img src="https://skillicons.dev/icons?i=linux"/>
+      <img src="https://skillicons.dev/icons?i=docker"/>
+    </a>    
+    <a>
+      <img src="https://skillicons.dev/icons?i=mongodb"/>
     </a>
     <a>
       <img src="https://skillicons.dev/icons?i=bash"/>
     </a>
- </p>
+  </p>
 </div>
 
-## <h1 align='center'>Conecte-se comigo 🫱 🫲</h1>
+
+
+## <h2 align='center'>Conecte-se comigo 🫱 🫲</h2>
 
 <div align="center">
   <a href="https://br.linkedin.com/in/wesley-brwno" target="_blank">
