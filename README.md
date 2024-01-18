@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black&labelColor=a77795" alt="MySql">
       <img src="https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=typescript&logoColor=black&labelColor=a77795" alt="TypeScript">
       <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=black&labelColor=a77795" alt="Angular">
-      <img src="https://img.shields.io/badge/Postman-F6BB43?style=for-the-badge&logo=postman&logoColor=black&labelColor=a77795" alt="Postman">
       <img src="https://img.shields.io/badge/docker-darkblue?style=for-the-badge&logo=docker&logoColor=black&labelColor=a77795" alt="Docker">
      </td>
     </tr>
