@@ -3,13 +3,11 @@
     <!-- Header -->
     <tr>
       <td colspan="2" align="center">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="hand waving" />
         <b> Hi there! I'm Wesley Bruno~ </b>
         <img src="https://emojis.slackmojis.com/emojis/images/1643509796/48499/gatocat.gif?1643509796" alt="cat" width="30" />
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=996183&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Brasília++%F0%9F%91%8B"
+          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=996183&center=true&vCenter=true&width=270&height=22&lines=Welcome+to+my+GitHub+👋🏽"
           alt="Hi"
-          width="400"
         />
       </td>
     </tr>
@@ -17,17 +15,35 @@
     <tr>
       <td align="left">
         <p>I'm a back-end developer with a degree in systems analysis and development;</p>
-        <p>Primarily focused on Java, Spring and Angular.</p>
-        <p>I like coding, animation, football and learning languages.</p>
+        <p>Primarily focused on Java, Spring Boot and Angular;</p>
+        <p>I like coding, animation, football and learning languages;</p>
       </td>
       <td align="center" width="30%">
         <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=7" />
       </td>
     </tr>
+   <!-- Stack and Tools -->
+    <tr>
+     <td colspan="2" align="center">
+      <img src="https://emojis.slackmojis.com/emojis/images/1643515905/19241/gears.gif?1643515905" alt="gears" width="20"/>
+      <b>Stack and Tools 🛠️</b>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=a77795" alt="Java">
+      <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring-boot&logoColor=black&labelColor=a77795" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black&labelColor=a77795" alt="MySql">
+      <img src="https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=typescript&logoColor=black&labelColor=a77795" alt="TypeScript">
+      <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=black&labelColor=a77795" alt="Angular">
+      <img src="https://img.shields.io/badge/Postman-F6BB43?style=for-the-badge&logo=postman&logoColor=black&labelColor=a77795" alt="Postman">
+      <img src="https://img.shields.io/badge/docker-darkblue?style=for-the-badge&logo=docker&logoColor=black&labelColor=a77795" alt="Docker">
+     </td>
+    </tr>
+   <!-- Contact me -->
     <tr>
       <td colspan="2" align="center">
-        <img src="https://emojis.slackmojis.com/emojis/images/1643514636/6399/pingu.gif?1643514636" alt="Pingu" width="30">
-        <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=996183&center=true&vCenter=true&width=150&height=22&lines=Ping+me+🫱+🫲" alt="Ping me"/>
+        <img src="https://emojis.slackmojis.com/emojis/images/1643514636/6399/pingu.gif?1643514636" alt="Pingu" width="25"> <b>Ping me 🫱 🫲</b>
       </td>
     </tr>
     <tr>
@@ -40,7 +56,7 @@
             <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
           </a>
           <a href="mailto:brunow9@outlook.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+            <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
           </a>
         </div>
       </td>
