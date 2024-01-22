@@ -31,12 +31,12 @@
     </tr>
     <tr>
      <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=a77795" alt="Java">
-      <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring-boot&logoColor=black&labelColor=a77795" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black&labelColor=a77795" alt="MySql">
-      <img src="https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=typescript&logoColor=black&labelColor=a77795" alt="TypeScript">
-      <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=black&labelColor=a77795" alt="Angular">
-      <img src="https://img.shields.io/badge/docker-46a2f1?style=for-the-badge&logo=docker&logoColor=black&labelColor=a77795" alt="Docker">
+      <img src="https://img.shields.io/badge/Java-ffd199?style=flat-square&logo=openjdk" alt="Java">
+      <img src="https://img.shields.io/badge/Spring%20Boot-99ffcc?style=flat&logo=spring-boot" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/mysql-b3c4d4?style=flat&logo=mysql" alt="MySql">
+      <img src="https://img.shields.io/badge/TypeScript-cad6e1?style=flat&logo=typescript" alt="TypeScript">
+      <img src="https://img.shields.io/badge/angular-d45170?style=flat&logo=angular" alt="Angular">
+      <img src="https://img.shields.io/badge/docker-5b76f0?style=flat&logo=docker" alt="Docker">
      </td>
     </tr>
    <!-- Contact me -->
