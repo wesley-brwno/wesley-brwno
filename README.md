@@ -33,10 +33,10 @@
      <td colspan="2" align="center">
       <img src="https://img.shields.io/badge/Java-ffd199?style=flat-square&logo=openjdk" alt="Java">
       <img src="https://img.shields.io/badge/Spring%20Boot-99ffcc?style=flat&logo=spring-boot" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/mysql-b3c4d4?style=flat&logo=mysql" alt="MySql">
+      <img src="https://img.shields.io/badge/MySql-b3c4d4?style=flat&logo=mysql" alt="MySql">
       <img src="https://img.shields.io/badge/TypeScript-cad6e1?style=flat&logo=typescript" alt="TypeScript">
-      <img src="https://img.shields.io/badge/angular-d45170?style=flat&logo=angular" alt="Angular">
-      <img src="https://img.shields.io/badge/docker-5b76f0?style=flat&logo=docker" alt="Docker">
+      <img src="https://img.shields.io/badge/Angular-d45170?style=flat&logo=angular" alt="Angular">
+      <img src="https://img.shields.io/badge/Docker-5b76f0?style=flat&logo=docker" alt="Docker">
      </td>
     </tr>
    <!-- Contact me -->
