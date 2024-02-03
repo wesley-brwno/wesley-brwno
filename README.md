@@ -31,7 +31,7 @@
     </tr>
     <tr>
      <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/Java-ffd199?style=flat-square&logo=openjdk" alt="Java">
+      <img src="https://img.shields.io/badge/Java-ffd199?style=flat&logo=openjdk" alt="Java">
       <img src="https://img.shields.io/badge/Spring%20Boot-99ffcc?style=flat&logo=spring-boot" alt="Spring Boot">
       <img src="https://img.shields.io/badge/MySQL-b3c4d4?style=flat&logo=mysql" alt="MySQL">
       <img src="https://img.shields.io/badge/TypeScript-cad6e1?style=flat&logo=typescript" alt="TypeScript">
