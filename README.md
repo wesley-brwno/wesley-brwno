@@ -19,7 +19,8 @@
         <p>I like coding, animation, football and learning languages;</p>
       </td>
       <td align="center" width="30%">
-        <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=7" />
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesley-brwno&theme=apprentice">
+<!--         <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=7" /> -->
       </td>
     </tr>
    <!-- Stack and Tools -->
