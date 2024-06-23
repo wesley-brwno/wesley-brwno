@@ -2,7 +2,7 @@
   <table width="100%">
     <!-- Header -->
     <tr>
-      <td align="center">
+      <td align="center" colspan=2>
         <b> Hi there! I'm Wesley Bruno~ </b>
         <!-- <img src="https://emojis.slackmojis.com/emojis/images/1643509796/48499/gatocat.gif?1643509796" alt="cat" width="30" />
         <img
@@ -10,9 +10,11 @@
           alt="Welcome to my GitHub"
         /> -->
       </td>
-     <td align="center">
-       <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=5" width="150"/>
-     </td>
+      <!-- 
+      <td align="center">
+        <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=5" width="150"/>
+      </td>
+      -->
     </tr>
     <!-- Sobre -->
     <tr>
