@@ -2,19 +2,12 @@
   <table width="100%">
     <!-- Header -->
     <tr>
-      <td align="center" colspan=2>
+      <td align="center">
         <b> Hi there! I'm Wesley Bruno~ </b>
-        <!-- <img src="https://emojis.slackmojis.com/emojis/images/1643509796/48499/gatocat.gif?1643509796" alt="cat" width="30" />
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=996183&center=true&vCenter=true&width=270&height=22&lines=Welcome+to+my+GitHub+👋🏽"
-          alt="Welcome to my GitHub"
-        /> -->
       </td>
-      <!-- 
       <td align="center">
         <img src="https://access-counter.vercel.app/api/counter?name=wesley-brwno&theme=006&length=5" width="150"/>
       </td>
-      -->
     </tr>
     <!-- Sobre -->
     <tr>
